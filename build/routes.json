@@ -8464,7 +8464,8 @@
         "radar": [
           {
             "source": [
-              "ainvest.com/news"
+              "www.ainvest.com/news/articles-latest/",
+              "www.ainvest.com"
             ]
           }
         ],
@@ -8472,7 +8473,7 @@
         "maintainers": [
           "TonyRL"
         ],
-        "url": "ainvest.com/news",
+        "url": "www.ainvest.com/news/articles-latest/",
         "location": "article.ts",
         "module": "() => import('@/routes/ainvest/article.ts')"
       },
@@ -8495,7 +8496,7 @@
         "radar": [
           {
             "source": [
-              "ainvest.com/news"
+              "www.ainvest.com/news/"
             ]
           }
         ],
@@ -8503,7 +8504,7 @@
         "maintainers": [
           "TonyRL"
         ],
-        "url": "ainvest.com/news",
+        "url": "www.ainvest.com/news/",
         "location": "news.ts",
         "module": "() => import('@/routes/ainvest/news.ts')"
       }
